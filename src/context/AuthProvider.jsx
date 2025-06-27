@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { useState } from "react";
 import { createContext } from "react"
-import { fetchData } from "../utils/RapidAPI";
+import { fetchData } from "../utils/rapidapi";
 import { useContext } from "react";
 
 
